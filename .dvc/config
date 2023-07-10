@@ -1,0 +1,4 @@
+['remote "dataset_track"']
+    url = gs://nixon-personal/dataset/
+['remote "model_track"']
+    url = gs://nixon-personal/model/
