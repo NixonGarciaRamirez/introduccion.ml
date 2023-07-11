@@ -57,3 +57,6 @@ venv/
 *.json
 *.csv
 *.pkl
+report.txt
+*.png
+__pycache__/
