@@ -1,8 +1,9 @@
 from fastapi.testclient import TestClient
 
-from api.main import app
+from main import app
 
 client = TestClient(app)
+
 
 def test_null_prediction():
     response = client.post('/v1/prediction', json = {
@@ -12,7 +13,6 @@ def test_null_prediction():
                                                     'title_year': 0,
                                                     'aspect_ratio': 0,
                                                     'duration': 0,
-                                                    'cast_total_facebook_likes': 0,
                                                     'budget': 0,
                                                     'imdb_score': 0
                                                     })
@@ -27,7 +27,6 @@ def test_random_prediction():
                                                     'title_year': 1999,
                                                     'aspect_ratio': 1.85,
                                                     'duration': 97,
-                                                    'cast_total_facebook_likes': 37907,
                                                     'budget': 16000000,
                                                     'imdb_score': 7.2
                                                 })
