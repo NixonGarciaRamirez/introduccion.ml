@@ -15,9 +15,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 logging.info('EXTRACCION DE LA INFORMACION DVC...')
-movie_data_path = api.read('../dataset/movies.csv', remote='dataset_track')
-finantial_data_path = api.read('../dataset/finantials.csv', remote='dataset_track')
-opening_data_path = api.read('../dataset/opening_gross.csv', remote='dataset_track')
+movie_data_path = api.read('../dataset/movies.csv', remote='dataset-track')
+finantial_data_path = api.read('../dataset/finantials.csv', remote='dataset-track')
+opening_data_path = api.read('../dataset/opening_gross.csv', remote='dataset-track')
 logger.info('READ CSV...')
 fin_data = pd.read_csv(StringIO(finantial_data_path))
 movie_data = pd.read_csv(StringIO(movie_data_path))
