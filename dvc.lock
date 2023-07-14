@@ -7,3 +7,11 @@ stages:
       hash: md5
       md5: 8905634bcd80b3e51f5b8963dde50c3b
       size: 167877
+  prepare:
+    cmd: python src/prepare.py
+    outs:
+    - path: dataset/full_data.csv
+      hash: md5
+      md5: 8905634bcd80b3e51f5b8963dde50c3b
+      size: 167877
+      isexec: true
