@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "elite-cascade-391215",
+  "private_key_id": "0059c121eea029f8bf84e686309b1afe9c4fb2b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC2lfZHBX+VN2zU\n9IOJLGw+HbmjtQUov5MrimM+Y0Q+4Gf5wecaZvep3ZFczIEcDPXbZ/SIntPFqOFA\nimOwBQ7/I8lHkFwI7hv5UZbt021jCtirIbgT+OQxqtQsbiqg4RPCXJYWM7M8AW7W\nTkTu4AW7DxQlmIofVmjQnYQf40fPzD/fcWeTdXV/SaJRgVju7JGlI0rvD2MdUSGC\nMv/sNb77SsWv4ZkaW6Zy5ZwkkUPDoEa49LE3uZiySmgA/mAgdvlkJAcJnp6K6rvo\nRV9Q6MdzEEMbcy3R64l8W1qwYXhThFRtEuv/5X2VI9tF+6ti1PhHO3dfuELbA235\nc3KXggkpAgMBAAECggEAEtbZFxWpBwJVpUj37/3Qit26D3tQdZaDxsq0CAZJzsOM\nkuuIDxQ4AnPJSYYT3cs0DIAWzgh2UScmW8iTteAlvptoi6zoZCb+Zayemjo2J5Gh\nTtIPOmdUU1AdLZrt5NToeyXeuhp6SEsdDrl7eRrOGJGbGnB5cveRX9Ia5Yfn21e7\nAnodLhF1tLF8jqfo47qTiWvxSrCmU5Szv9l29K2YgSCvkgKC1ER82hm3zeqYni2L\nwSZH5HR+hgukQtiUg9ve3bCxrMbeQUmUdrvEdGTznOADQhRqPKu9lTPc6IXcGNBo\nzRm0AlZ+iKQzmiSEURBElOcyOTMcx9WUI4AE6vHxQQKBgQDkRgzW7dwiXdAS/KC/\nZVyLsE1LjTDeoZV16aX/8rpIPiY9imrRCJygHNMkpsz9AlbEmPr1XAIu7eJS4e5n\nagHVTOKQPAPy2xZs+eT0RD6M6tTx9OhbL3RI9XLdGVg3y2S51dsuoQQW3N0EH5T2\nd0wvPDD1JdewT/KqlsVgVvRg6QKBgQDMw0rJjMXllA3UllSIfvzBX0KTU3drmOMo\nZbaz+pQFoAcJqQzhTPByz13D2bCDZJ5zKK1BJt0ulZWSRn4hD+a4bhl6HedoTtuX\nWKKTxN3AxMpISwQ9djJSdagOk3GVf0wuk7JgVoS629D/mP4cjsxStjNM8LV1LoNO\n4SSizfU+QQKBgQCDdcwDIux5ZilkJdS1JLyNPbTl46PXMpsOUsZkhfa9j/0Zx9MI\nGruIgdEe9Ghs9KHfinJMRvaC7EBAlxhiuevgWOzJP6bOf1mE3Mz71ylmof6McQw3\nJzcCpUfHCMeDKkERvJUDX3spZ3xo2X9CCSX4teND6s0yHniTwUxd1PXbsQKBgQC9\nXarPhOoL7IVx4mlhJpeYOgH3AA0ELAuAc7io8AduwFVh4L5xqlcAxrf/hVZR3X8Q\nH0FDbK7HAz2lXp4M84i7bc8P+ZHmDG/WovkP0dQHD7fHbeEI+kOFsRvwBvnXeTe6\nJ4uivsDXkqzRhOsU/BcIM0p0UHRwX8i97UeVbQXuQQKBgQCUrs+bNeE8gxss5lqF\nY7jokXlynCf/8i4JhsbPTwGl1T/5vzRhHier2PhGeSj0H5QlknjAUjdD3XnLMAXA\nhDl3PSsfy8/M7oA5XW0dGGjAPGagQ6wGs/fy4GGLTGVIQicQuPfwHlf1C78ljkvK\nyJRp1yEdWQZAwyAVvJ/QAaDBRA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "storange-manage@elite-cascade-391215.iam.gserviceaccount.com",
+  "client_id": "100299287100363219690",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storange-manage%40elite-cascade-391215.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
